@@ -1,0 +1,1 @@
+ C:\\Users\\nmt\\Documents\\Projects\\toku\\.dart_tool\\flutter_build\\32fafe478157e0b4525e9c8be89fb412\\native_assets.yaml: 
